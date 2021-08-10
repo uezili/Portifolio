@@ -1,0 +1,21 @@
+header {
+    background-color: #23C0B5;
+}
+
+nav {
+    position: absolute;
+    width: 702px;
+    height: 60px;
+    left: 712px;
+    top: 10px;
+}
+
+a {
+    color: #fff;
+    font-size: 20px;
+    font-family: "Fira Code", "sans-serif";
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    margin-right: 30px;
+}
